@@ -1,0 +1,15 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "zoo animals",
+  "main": "zookeeperRoutes.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "zookeepr"
+  },
+  "author": "",
+  "license": "ISC"
+}

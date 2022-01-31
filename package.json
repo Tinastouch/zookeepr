@@ -1,24 +1,16 @@
 {
-  "dependencies": {
-    "express": "^4.17.2"
-  },
-  "scripts": {
-    "start": "node server.js"
-  },
-  "name": "zookeepr",
-  "description": "",
+  "name": "main",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Tinastouch/zookeepr.git"
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Tinastouch/zookeepr/issues"
-  },
-  "homepage": "https://github.com/Tinastouch/zookeepr#readme"
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
